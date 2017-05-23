@@ -308,26 +308,26 @@ function receivedMessage(event) {
         break;
 	
 	case 'GL':
-		messageText = 'GL: GROUP LEASE
-
-Financials/Finance & Securities
-SET
-
-The core business of the group Company is to provide financing and a Digital Finance Platform between consumers and suppliers/dealers for a variety of products such as motorcycles, agricultural machinery, energy sector equipment, and other consumer durables.
-
-Last:  23.40 (+1.60, +7.64%)
-Open:  22.30
-High:  23.80
-Low:  22.30
-Value:  1,172 MB
-
-P/E:  33.56
-P/B:  4.25
-Market Cap: 35,697 MB
-
-Margin Grade A (50%)
-
-www.grouplease.co.th
+		messageText = 'GL: GROUP LEASE \
+\
+Financials/Finance & Securities \
+SET \
+\
+The core business of the group Company is to provide financing and a Digital Finance Platform between consumers and suppliers/dealers for a variety of products such as motorcycles, agricultural machinery, energy sector equipment, and other consumer durables.\
+\
+Last:  23.40 (+1.60, +7.64%)\
+Open:  22.30\
+High:  23.80\
+Low:  22.30\
+Value:  1,172 MB\
+\
+P/E:  33.56\
+P/B:  4.25\
+Market Cap: 35,697 MB\
+\
+Margin Grade A (50%)\
+\
+www.grouplease.co.th\
 '
         sendTextMessage(senderID, messageText);
         break;

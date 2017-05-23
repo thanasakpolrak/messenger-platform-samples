@@ -1,6 +1,6 @@
 {
-    "appSecret": "aa",
-    "pageAccessToken": "bb",
-    "validationToken": "cc",
-    "serverURL": "cc"
+    "appSecret": "dff150d574d70e7bd6118aee2a54a175",
+    "pageAccessToken": "EAAa7pbn0wDABALhujy5a1to797oqq8e8NqgjMhSjhBhfe0hDSvKDscX3U4gGcQQ1LCNY5KxiBZAoaFwZBTuEwcuKq2v9PsidzhZB776Ku0wsjUCIgCprpep0U06kvS1tWn5VKO1pMZAHWeWQFgGc9v28ZAIATvJm7SWR2KfLj8wZDZD",
+    "validationToken": "thanasak_polrak",
+    "serverURL": "https://obscure-cove-89004.herokuapp.com/"
 }
